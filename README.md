@@ -1,3 +1,3 @@
-# MailServerStatistics
+#ExchangeScripts
 
-Powershell scripts for pulling statistics from Exchange
+Powershell scripts for pulling infos from Exchange and managing stuff
